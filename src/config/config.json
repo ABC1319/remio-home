@@ -93,7 +93,7 @@
   ],
   "sites": [
     {
-      "icon": "public/icons/avatar.jpg",
+      "icon": "./icons/avatar.jpg",
       "title": "leleo-home-page",
       "url": "https://leleo-home-page.jbt.de5.net",
       "desc": "个人主页"
@@ -108,7 +108,7 @@
             "title": "simple-nav-page",
             "url": "https://simple-nav-page.jbt.de5.net/",
             "desc": "simple-nav-page",
-            "icon": "public/icons/1.jpg"
+            "icon": "./icons/1.jpg"
         },
         {
             "title": "go-nav",
