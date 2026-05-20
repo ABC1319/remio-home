@@ -13,8 +13,8 @@
     "aloneRight": false
   },
   "bgConfig": {
-    "bg": ["./夏日海边-夏日风情.webq"],
-    "mbg": ["./夏日海边-夏日风情1.webq"],
+    "bg": ["./xiarihaibian-xiarifengqing.webq"],
+    "mbg": ["./xiarihaibian-xiarifengqing1.webq"],
     "bgStyle": "snow",
     "blur": "",
     "cardOpacity": 0.1,
