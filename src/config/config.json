@@ -13,8 +13,8 @@
     "aloneRight": false
   },
   "bgConfig": {
-    "bg": ["./xiarihaibian-xiarifengqing.webq"],
-    "mbg": ["./xiarihaibian-xiarifengqing1.webq"],
+    "bg": ["./icons/xiarihaibian-xiarifengqing.webq"],
+    "mbg": ["./icons/xiarihaibian-xiarifengqing1.webq"],
     "bgStyle": "snow",
     "blur": "",
     "cardOpacity": 0.1,
