@@ -4,7 +4,7 @@
   "keywords": "Skyの次元,Sky的个人博客,Sky,个人主页,主页,个人记录,技术博客,个人生活",
   "description": "Skyの次元，兴趣至上，内容随缘，个人主页",
   "avatarConfig": {
-    "src": "https://s2.loli.net/2024/06/19/8zlOyDUnGjXeHpi.webp",
+    "src": "/images/avatar.jpg",
     "size": 150,
     "round": "full",
     "style": "wave",
@@ -108,7 +108,7 @@
             "title": "simple-nav-page",
             "url": "https://simple-nav-page.jbt.de5.net/",
             "desc": "simple-nav-page",
-            "icon": "https://cs.kasuie.cc/icons/a8cb45a8-c0ec-41e7-ab8f-ff4fe8817230.jpg!cove"
+            "icon": "https://s2.loli.net/2024/06/19/8zlOyDUnGjXeHpi.webp"
         },
         {
             "title": "go-nav",
@@ -180,7 +180,7 @@
             "title": "shuqianpage",
             "url": "https://shuqianpage.vercel.de5.net/",
             "desc": "shuqianpage",
-            "icon": "https://www.faviconextractor.com/favicon/shuqianpage.vercel.de5.net/"
+            "icon": "https://s2.loli.net/2024/06/19/8zlOyDUnGjXeHpi.webp"
         },
         {
             "title": "webdesk",
