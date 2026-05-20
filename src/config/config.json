@@ -45,7 +45,7 @@
     "style": "desc",
     "gapDelay": 0.05,
     "content": "Hello💫，这里是Skyの主页",
-    "desc": "Sky是自己胡乱起的，也可以叫我暖暖;已经毕业快两年半了，主要捣鼓一些前端，会点点后端，目标是成为一个温柔的全栈开发，好耶！🥰"
+    "desc": "Sky是自己胡乱起的，也可以叫我暖暖;已经毕业快8年了，主要捣鼓一些前端，会点点后端，目标是成为一个温柔的全栈开发，好耶！🥰"
   },
   "links": [
     {
@@ -93,7 +93,7 @@
   ],
   "sites": [
     {
-      "icon": "https://www.faviconextractor.com/favicon/leleo-home-page.jbt.de5.net/",
+      "icon": "/public/icons/avatar.jpg",
       "title": "Skyの次元",
       "url": "https://leleo-home-page.jbt.de5.net",
       "desc": "个人主页"
@@ -108,7 +108,7 @@
             "title": "simple-nav-page",
             "url": "https://simple-nav-page.jbt.de5.net/",
             "desc": "simple-nav-page",
-            "icon": "https://www.faviconextractor.com/favicon/simple-nav-page.jbt.de5.net/"
+            "icon": "/public/icons/1.jpg"
         },
         {
             "title": "go-nav",
