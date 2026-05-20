@@ -135,7 +135,7 @@ docker-compose up -d remio-home
 >
 > **新增功能：** 从 `v1.0.6` 版本开始，vercel部署如果配置了数据库，也支持在线编辑，数据库仅支持`PostgreSQL`，在vercel可以免费创建配置数据库，然后在项目环境变量处设置数据量连接的环境变量`PG_DATABASE_URL`，格式为`postgres://xxxxxx`，如果连接失败，可以去掉连接url的`?`后面的参数。
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/kasuie/remio-home&env=PASSWORD&project-name=remio-home&repository-name=remio-home)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/abc1319/remio-home&env=PASSWORD&project-name=remio-home&repository-name=remio-home)
 
 点击上方按钮即可，填写必要的环境变量，点击创建完成后，回到自己创建的仓库里，按需修改 `/src/config/config.json` 文件即可。
 
